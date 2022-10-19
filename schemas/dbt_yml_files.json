@@ -361,6 +361,9 @@
                         "items": {
                             "$ref": "#/$defs/tests"
                         }
+                    },
+                    "meta": {
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
